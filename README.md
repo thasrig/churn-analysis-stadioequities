@@ -5,3 +5,11 @@ STADIOEquities is currently facing a critical challenge with customer retention.
 
 Problem Statement: STADIOEquities
 STADIOEquities is experiencing high levels of customer churn, with a significant proportion of accounts either never funding or becoming dormant within the first six months. This pattern results in wasted acquisition costs, reduced assets under adminstration and weakened long-term growth potential. The problem is that the company currently lacks a reliable way to predict which accounts are at risk of dormancy early in their lifecycle. Without predictive inisghts, interventions are reactive and often too late to retain valuable customers. The challenge is therefore to design a data-driven churn prediction model that can identify at-risk accounts in advance, enabling targeted retentions strategies that improve customer engagemnet and reduce churn. 
+
+RAAIDD Log: 
+Risks: Incomplete or inconsistent client data, imbalanced churn labels affecting model accuracy, delays in recieving datasets from STADIOEquities, missing demographic or acquisition channel variables and overfitting models due to limited data volume.
+Actions: Collect both public and client datsets, clean and preprocess data for quality assurance, engineer churn-related features, train and evaluate multiple machine learning models, document results and maintain clear reporting and create visualisations to communicate churn trends.
+Assumptions: Client data is accurate and representative of the customer base, churn labels correctly reflect dormancy or attrition, sufficient account volume is available for training reliable models and selected features will be predictive of churn behaviour.
+Issues: Potential absence of aquisition channel data, limiting behavioural analysis.
+Decisions: Choosing logistic regression vs random forest as primary models and prioritising recall over precision to better capture customers at risk of churn.
+Dependencies: Timely delivery of clients datasets, completion of formal data request before modelling begins, clean and validated data before visualisation and reporting and integration of public datasets with client data to strengthen churn prediction.
