@@ -13,3 +13,13 @@ Assumptions: Client data is accurate and representative of the customer base, ch
 Issues: Potential absence of aquisition channel data, limiting behavioural analysis.
 Decisions: Choosing logistic regression vs random forest as primary models and prioritising recall over precision to better capture customers at risk of churn.
 Dependencies: Timely delivery of clients datasets, completion of formal data request before modelling begins, clean and validated data before visualisation and reporting and integration of public datasets with client data to strengthen churn prediction.
+
+##Project Documentation
+- [Preprocessing](Preprocessing.MD)
+Preprocessing steps and links to [scripts/preprocessing.ipynb](scripts/preprocessing.ipynb)
+- [Feature Engineering](FeatureEngineering.MD)
+Explains feature creation and links to [scripts/feature-engineering.ipynb](scripts/feature-engineering.ipynb)
+- [Model 1: Logistic Regression](Model1.MD)
+Covers training/inference for logistic regression, linked to [scripts/model1-logistic-regression.ipynb]
+- [Model 2: Random Forest](Model2.MD)
+Covers training/inference for random forest, linked to [scripts/model2-random-forest.ipynb](scripts/model2-random-forest.ipynb)
