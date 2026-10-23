@@ -28,3 +28,12 @@ A Random Forest Classifier was selected because:
 • it captures complex nonlinear relationships 
 • it provides feature importance measures 
 
+Technologies Used
+• python
+• pandas
+• numpy
+• scikit-learn
+• matplotlib 
+• seaborn
+• jupyter notebook
+
