@@ -2,7 +2,7 @@ SS3 Part B - Customer Churn Prediction
 
 This project develops a machine learning model to predict customer churn for STADIOEquities. Customer churn occurs when customers become inactive and discontinue engagement with a service. Early identification of customers at risk of churn enables organisations to implement retention strategies and improve lifetime value.
 
-The project follows a complete machine learning workflow including:
+**The project follows a complete machine learning workflow including:**
 
 • data exploration
 
@@ -20,7 +20,7 @@ The project follows a complete machine learning workflow including:
 
 • feature importance analysis
 
-The main objectives of this project were:
+**The main objectives of this project were:**
 
 • analyse customer account and behavioural data
 
@@ -34,7 +34,7 @@ The main objectives of this project were:
 
 • identify key factors influencing customer churn 
 
-Machine Learning Model
+**Machine Learning Model**
 
 A Random Forest Classifier was selected because:
 
@@ -46,7 +46,7 @@ A Random Forest Classifier was selected because:
 
 • it provides feature importance measures 
 
-Technologies Used
+**Technologies Used**
 
 • python
 
