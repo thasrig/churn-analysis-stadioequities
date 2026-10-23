@@ -20,3 +20,11 @@ The main objectives of this project were:
 • evaluate model performance using classification metrics 
 • identify key factors influencing customer churn 
 
+Machine Learning Model
+
+A Random Forest Classifier was selected because:
+• it handles large datsets efficiently 
+• it reduces overfitting through ensemble learning
+• it captures complex nonlinear relationships 
+• it provides feature importance measures 
+
