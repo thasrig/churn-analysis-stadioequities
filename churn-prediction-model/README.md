@@ -11,3 +11,12 @@ The project follows a complete machine learning workflow including:
 • model training using Random Forest
 • model evaluation
 • feature importance analysis
+
+The main objectives of this project were:
+• analyse customer account and behavioural data
+• create a churn target variable using business logic
+• prepare data for machine learning
+• build a predictive churn model 
+• evaluate model performance using classification metrics 
+• identify key factors influencing customer churn 
+
