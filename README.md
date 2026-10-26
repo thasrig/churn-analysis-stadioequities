@@ -23,3 +23,8 @@ Explains feature creation and links to [scripts/feature-engineering.ipynb](scrip
 Covers training/inference for logistic regression, linked to [scripts/model1-logistic-regression.ipynb]
 - [Model 2: Random Forest](Model2.MD)
 Covers training/inference for random forest, linked to [scripts/model2-random-forest.ipynb](scripts/model2-random-forest.ipynb)
+
+##Video Presentation
+The SS1, SS2 and SS3 Capstone Project presentation can be viewed using the link below:
+
+https://stadiomultiversity-my.sharepoint.com/:p:/g/personal/23411635_stadio_ac_za/IQBj5mRVlmLOQI4q1xnfpPwzARBrqoTDPx_YprgfnFrXtz0?e=qRDe7U 
